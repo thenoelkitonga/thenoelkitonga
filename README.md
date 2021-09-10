@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thenoelkitonga
-- 👀 I’m interested python and game development in Unity
-- 🌱 I’m currently learning python and Unity game development 
+- 👀 I’m interested in the Python Language and Game Development in Unity
+- 🌱 I’m currently learning Python and Unity as a game development 
 - 💞️ I’m looking to collaborate on python projects
 - 📫 How to reach me via the @thenoelkitonga on Instagram
 
